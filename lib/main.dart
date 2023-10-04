@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:kuismobile/book_list.dart';
 
-void main(){ runApp(MyApp());}
+void main() => runApp(MyApp());
 
-class MyApp extends Stateleswidget {
+class MyApp extends StatelessWidget {
   const MyApp({super.key});
   // This widget is the root of your application.
   @override
