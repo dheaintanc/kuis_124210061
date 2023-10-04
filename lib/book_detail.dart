@@ -45,7 +45,7 @@ class BookDetail extends StatelessWidget {
             // Container(
             //   margin: EdgeInsets.symmetric(horizontal: 20),
             //   child: Text(),
-            // ),
+            // )
             Container(
               child: DataTable(
                 rows: [
